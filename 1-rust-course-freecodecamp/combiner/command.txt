@@ -1,0 +1,1 @@
+cargo run -- images/liscia_elfrieden.jpg images/marine_houshou.jpg images/new.jpg 
