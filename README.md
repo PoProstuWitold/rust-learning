@@ -1,6 +1,6 @@
-## About Rust
+## About Rust [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
 
-### Rust
+### Rust [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
 Rust is a multi-paradigm, general-purpose programming language. Rust emphasizes performance, type safety, and concurrency. Rust enforces memory safety - that is, that all references point to valid memory - without requiring the use of a garbage collector or reference counting present in other memory-safe languages. To simultaneously enforce memory safety and prevent concurrent data races, Rust's borrow checker tracks the object lifetime and variable scope of all references in a program during compilation. Rust is popular for systems programming but also offers high-level features including functional programming constructs.
 
 Software developer Graydon Hoare created Rust as a personal project while working at Mozilla Research in 2006. Mozilla officially sponsored the project in 2009. Rust's major influences include SML, OCaml, C++, Cyclone, Haskell, and Erlang. Since the first stable release in January 2014, Rust has been adopted by companies including Amazon, Discord, Dropbox, Facebook (Meta), Google (Alphabet), and Microsoft.
@@ -16,6 +16,8 @@ Software developer Graydon Hoare created Rust as a personal project while workin
 - Not exactly beginner friendly
 - Has decent future in gamedev
 - The most loved programming language
+
+#### Rust in 100 seconds
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5C_HPTJg5ek/0.jpg)](https://www.youtube.com/watch?v=5C_HPTJg5ek)
 
